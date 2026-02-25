@@ -1,11 +1,7 @@
 include <iostream>
+using namespace std;
 
 int main() {
-    std::cout << "Программа запущена" << std::endl;
+    cout << "Приииииииивееееееееет" << endl;
     return 0;
-}
-
-// Новая функция для математических операций
-int add(int a, int b) {
-    return a + b;
 }
